@@ -1,0 +1,39 @@
+.shawna-advice {
+  width: 75%;
+  background-color: white;
+  margin: 0 auto;
+}
+.main-page {
+  position: absolute;
+  top: 10px;
+  width: 75%;
+  height: 50px;
+  text-align: center;
+}
+header h1, h2, h3,
+section p {
+  font-family: 'Bitter', serif;
+	text-align: center;
+	color: #6658ad;
+}
+header h1 {
+	font: 32px 'Bitter';
+	font-weight: bold;
+}
+header h2 {
+	font: 32px 'Bitter';
+	font-weight: bold;
+}
+header h3 {
+ font: 32px 'Bitter';
+ font-weight: bold;
+}
+section p {
+	font: 24px 'Open Sans', san serif;
+}
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 75%;
+    height: 50px;
+    text-align: center;
