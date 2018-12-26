@@ -1,2 +1,2 @@
-# skillcrush-105-repo
+# skillcrush/105-repo
 Shawna's Advice
